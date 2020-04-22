@@ -1,2 +1,2 @@
 # Optimization
-Optimization algorith: Steepest Descent Method implemented in Python
+Optimization algorithm: Steepest Descent Method implemented in Python
